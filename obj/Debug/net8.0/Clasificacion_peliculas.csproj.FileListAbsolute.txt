@@ -1,0 +1,14 @@
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\bin\Debug\net8.0\Clasificacion_peliculas.exe
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\bin\Debug\net8.0\Clasificacion_peliculas.deps.json
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\bin\Debug\net8.0\Clasificacion_peliculas.runtimeconfig.json
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\bin\Debug\net8.0\Clasificacion_peliculas.dll
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\bin\Debug\net8.0\Clasificacion_peliculas.pdb
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\obj\Debug\net8.0\Clasificacion_peliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\obj\Debug\net8.0\Clasificacion_peliculas.AssemblyInfoInputs.cache
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\obj\Debug\net8.0\Clasificacion_peliculas.AssemblyInfo.cs
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\obj\Debug\net8.0\Clasificacion_peliculas.csproj.CoreCompileInputs.cache
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\obj\Debug\net8.0\Clasificacion_peliculas.dll
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\obj\Debug\net8.0\refint\Clasificacion_peliculas.dll
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\obj\Debug\net8.0\Clasificacion_peliculas.pdb
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\obj\Debug\net8.0\Clasificacion_peliculas.genruntimeconfig.cache
+C:\Users\ryuha\source\repos\Clasificacion_peliculas\obj\Debug\net8.0\ref\Clasificacion_peliculas.dll

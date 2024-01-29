@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clasificacion_peliculas", "Clasificacion_peliculas.csproj", "{C3732D86-1CE9-4763-8E75-8BE00BB7E6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3732D86-1CE9-4763-8E75-8BE00BB7E6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3732D86-1CE9-4763-8E75-8BE00BB7E6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3732D86-1CE9-4763-8E75-8BE00BB7E6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3732D86-1CE9-4763-8E75-8BE00BB7E6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B577921-D969-4116-AEDA-E330E457FB26}
+	EndGlobalSection
+EndGlobal
